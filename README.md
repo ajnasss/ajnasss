@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajnasss
-- 👀 I’m interested in web development
+- 👀 I’m interested in python
 - 🌱 I’m currently learning mySQL ,python
 - 💞️ I’m looking to collaborate on any projects that is on python, javascript or css
 - 📫 How to reach me on my gmail ecenazbozdogan@gmail.com
